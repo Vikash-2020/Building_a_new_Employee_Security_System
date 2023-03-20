@@ -8,4 +8,8 @@ Using Experimental Data for building a new Employee Security System.
 
 * The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
 
-![image](https://www.acesecurity.co.uk/hubfs/keyless_entry_for_business-.jpg)
+    ![image](https://www.acesecurity.co.uk/hubfs/keyless_entry_for_business-.jpg)
+
+
+**Link To DataSet: 
+  https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
