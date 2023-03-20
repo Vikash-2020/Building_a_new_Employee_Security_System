@@ -11,5 +11,4 @@ Using Experimental Data for building a new Employee Security System.
     ![image](https://www.acesecurity.co.uk/hubfs/keyless_entry_for_business-.jpg)
 
 
-**Link To DataSet: 
-  https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+**Link To DataSet: https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
